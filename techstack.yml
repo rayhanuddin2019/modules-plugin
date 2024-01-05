@@ -1,7 +1,8 @@
 repo_name: rayhanuddin2019/modules-plugin
 report_id: 0450e6f5d88dd3fc2da2777860b3c0b6
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T15:05:24+00:00'
+timestamp: '2024-01-05T08:53:35+00:00'
 requested_by: lukasbestle
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/rayhanuddin2019/modules-plugin
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rayhanuddin2019/modules-plugin
   detection_source: Repo Metadata
